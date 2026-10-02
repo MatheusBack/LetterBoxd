@@ -15,10 +15,8 @@
 
 ---
 
-## 📐 Arquitetura e Modelagem
+## 💻 Diagrama de Classes
+![Diagrama de Classes](https://github.com/MatheusBack/LetterBoxd/blob/main/DiagramaClasseLetterBox.png)
 
-### 💻 Diagrama de Classes
-![Diagrama de Classes](INSIRA_O_CAMINHO_OU_LINK_DA_IMAGEM_AQUI)
-
-### 🗄️ Diagrama MER (Modelo Entidade-Relacionamento)
-![Diagrama MER](INSIRA_O_CAMINHO_OU_LINK_DA_IMAGEM_AQUI)
+## 🗄️ Diagrama MER (Modelo Entidade-Relacionamento)
+![Diagrama MER](https://github.com/MatheusBack/LetterBoxd/blob/main/DiagramaMERLetterBoxd.png)
