@@ -10,8 +10,8 @@
 
 ---
 
-## 🎨 Design do Projeto (Figma)
-👉 [Acesse o projeto no Figma](INSIRA_O_LINK_DO_FIGMA_AQUI)
+## 🎨 Design do Projeto
+👉 [Acesse o projeto no Figma](https://github.com/MatheusBack/LetterBoxd/blob/main/DesignLetterBoxd.png)
 
 ---
 
