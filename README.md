@@ -11,7 +11,7 @@
 ---
 
 ## 🎨 Design do Projeto
-👉 [Acesse o projeto no Figma](https://github.com/MatheusBack/LetterBoxd/blob/main/DesignLetterBoxd.png)
+![Acesse o projeto no Figma](https://github.com/MatheusBack/LetterBoxd/blob/main/DesignLetterBoxd.png)
 
 ---
 
